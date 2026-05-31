@@ -1,5 +1,6 @@
 #  About Me:
-Passionate about tech and design. I work with C/C++, Python, and SQL, and I also specialize in UI/UX and Graphic Design. Outside of my technical work, I am an avid photographer and gamer.
+Passionate about tech and design. I work with C/C++, Python, and SQL, and I also specialize in UI/UX and Graphic Design. 
+Outside of my technical work, I am an avid photographer and gamer.
 
 
 ## Socials:
